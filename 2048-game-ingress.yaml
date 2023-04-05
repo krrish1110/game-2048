@@ -6,7 +6,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: echo1.bbros.xyz
+  - host: game2048.bbros.xyz
     http:
         paths:
         - path: /
